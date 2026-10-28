@@ -1,0 +1,2 @@
+[functions.owner-bootstrap]
+verify_jwt = true
